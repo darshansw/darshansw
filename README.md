@@ -1,21 +1,18 @@
 <h1 align="center">Hi 👋, I'm Darshan Wankhede</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Embeddded, IOT and frontend developer from India</h3>
 
-- 🔭 I’m currently working on **Frontend projects**
+- 🔭 I’m currently working on **Embedded projects**
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **RTOS**
 
-- 👯 I’m looking to collaborate on **Frontend projects**
-
-- 🤝 I’m looking for help with **Backend**
+- 👯 I’m looking to collaborate on **Embedded and IOT projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/darshansw](https://github.com/darshansw)
 
-- 💬 Ask me about **HTML, CSS, Javascript**
+- 💬 Ask me about **Embedded C, C, C++, Python, HTML, CSS, Javascript**
 
 - 📫 How to reach me **darshanswankhede@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1RNcSq5x1pN3kqSRdVM2oNJzTX5rxJJHM/view?usp=sharing](https://drive.google.com/file/d/1RNcSq5x1pN3kqSRdVM2oNJzTX5rxJJHM/view?usp=sharing)
 
 - ⚡ Key skill **Love to learn new technologies**
 
